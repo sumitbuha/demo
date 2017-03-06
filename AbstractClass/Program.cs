@@ -18,6 +18,7 @@ namespace AbstractClass
         }
         int length;
         int height;
+        int width;
         public first(int a,int b)
         {
           length = a;
